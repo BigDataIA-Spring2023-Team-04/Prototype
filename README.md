@@ -60,5 +60,5 @@ What do you want to do with your text?
 Enter your choice (1/2/3/4): exit
 ```
 
-Credits
+# Credits
 The Multi-Purpose Chatbot was created by Sivaranjani, Rishab Singh, Karan Raman Agrawal, Lokeshwaran using the OpenAI API.
