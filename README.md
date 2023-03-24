@@ -22,7 +22,7 @@ You can type exit at any time to quit the application.
 # Example
 Here's an example of how you can use the Multi-Purpose Chatbot:
 
-'''
+```
 Welcome to the Multi-Purpose Chatbot!
 Enter your text message or type 'exit' to quit: Hello, how are you doing?
 
@@ -58,7 +58,7 @@ What do you want to do with your text?
 3. Generate Text
 4. Type a new text message
 Enter your choice (1/2/3/4): exit
-'''
+```
 
 Credits
 The Multi-Purpose Chatbot was created by Sivaranjani, Rishab Singh, Karan Raman Agrawal, Lokeshwaran using the OpenAI API.
