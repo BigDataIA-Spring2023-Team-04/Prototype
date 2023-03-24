@@ -1,4 +1,9 @@
 # Prototype
+
+#Link to Live application
+Streamlit: 
+Documentation of use cases and testing: https://docs.google.com/document/d/1BIJSANR2hE2q1OD_HA10DkJXvv5zMzkRXoOoVH6ZIQI/edit?usp=sharing
+
 # Multi-Purpose Chatbot
 The Multi-Purpose Chatbot is an application that allows you to perform different types of text analysis and generation tasks using the OpenAI API. You can use it to translate text, analyze sentiment, and generate new text based on a given prompt.
 
@@ -62,3 +67,5 @@ Enter your choice (1/2/3/4): exit
 
 # Credits
 The Multi-Purpose Chatbot was created by Sivaranjani, Rishab Singh, Karan Raman Agrawal, Lokeshwaran using the OpenAI API.
+
+
