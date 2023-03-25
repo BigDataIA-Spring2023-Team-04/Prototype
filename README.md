@@ -12,10 +12,10 @@ The Multi-Purpose Chatbot is an application that allows you to perform different
 
 To use this chatbot locally, follow these steps:
 
-Clone this repository: git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+Clone this repository: git clone https://github.com/BigDataIA-Spring2023-Team-04/Prototype.git
 Install the required packages: pip install -r requirements.txt
 Set your OpenAI API key as an environment variable: export OPENAI_API_KEY=YOUR_API_KEY
-Run the application: streamlit run app.py
+Run the application: streamlit run prototype.py
 
 # Usage
 To use the Multi-Purpose Chatbot, simply run the prototype.py file. You will be prompted to enter a text message, and then you can choose what you want to do with that text. Here are the available options:
