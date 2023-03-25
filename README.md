@@ -2,9 +2,9 @@
 
 # Link to Live application
 
-The chatbot is deployed on Streamlit and can be accessed using the following link: 
-Documentation of use cases and testing: https://docs.google.com/document/d/1BIJSANR2hE2q1OD_HA10DkJXvv5zMzkRXoOoVH6ZIQI/edit?usp=sharing
+The chatbot is deployed on Streamlit and can be accessed using the following link: https://bigdataia-spring2023-team-04-prototype-prototype-2i2ebh.streamlit.app/
 
+Codelabs Documentation of use cases and testing: https://codelabs-preview.appspot.com/?file_id=1BIJSANR2hE2q1OD_HA10DkJXvv5zMzkRXoOoVH6ZIQI#3
 # Multi-Purpose Chatbot
 The Multi-Purpose Chatbot is an application that allows you to perform different types of text analysis and generation tasks using the OpenAI API. You can use it to translate text, analyze sentiment, and generate new text based on a given prompt.
 
@@ -12,13 +12,13 @@ The Multi-Purpose Chatbot is an application that allows you to perform different
 
 To use this chatbot locally, follow these steps:
 
-Clone this repository: git clone https://github.com/BigDataIA-Spring2023-Team-04/Prototype.git
+1. Clone this repository: git clone https://github.com/BigDataIA-Spring2023-Team-04/Prototype.git
 
-Install the required packages: pip install -r requirements.txt
+2. Install the required packages: pip install -r requirements.txt
 
-Set your OpenAI API key as an environment variable: export OPENAI_API_KEY=YOUR_API_KEY
+3. Set your OpenAI API key as an environment variable: export OPENAI_API_KEY=YOUR_API_KEY
 
-Run the application: streamlit run prototype.py
+4. Run the application: streamlit run prototype.py
 
 # Usage
 To use the Multi-Purpose Chatbot, simply run the prototype.py file. You will be prompted to enter a text message, and then you can choose what you want to do with that text. Here are the available options:
